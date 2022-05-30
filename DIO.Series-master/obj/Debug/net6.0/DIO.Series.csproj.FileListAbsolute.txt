@@ -1,0 +1,15 @@
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Users\carlo\Downloads\CadastroDeSerie_DIO-main (1)\CadastroDeSerie_DIO-main\DIO.Series-master\obj\Debug\net6.0\ref\DIO.Series.dll
